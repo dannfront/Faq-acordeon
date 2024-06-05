@@ -15,10 +15,10 @@ body{
 }
 
 .background-mobile{
-    background-image: url('../images/background-pattern-mobile.svg');
+    background-image: url('./background-pattern-mobile.svg');
 
     @media screen and (min-width: 768px) {
-        background-image: url('../images/background-pattern-desktop.svg');
+        background-image: url('./background-pattern-desktop.svg');
 
         
     }
